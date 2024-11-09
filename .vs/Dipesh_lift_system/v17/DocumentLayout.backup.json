@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\DIpesh lift system not state pattern design not background worker\\Dipesh Lift System\\Dipesh_lift_system\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E0744759-023C-4149-B6A1-C54E47033FA1}|Dipesh_lift_system\\Dipesh_lift_system.csproj|c:\\users\\hp\\desktop\\dipesh lift system not state pattern design not background worker\\dipesh lift system\\dipesh_lift_system\\dipesh_lift_system\\elevator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0744759-023C-4149-B6A1-C54E47033FA1}|Dipesh_lift_system\\Dipesh_lift_system.csproj|solutionrelative:dipesh_lift_system\\elevator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0744759-023C-4149-B6A1-C54E47033FA1}|Dipesh_lift_system\\Dipesh_lift_system.csproj|c:\\users\\hp\\desktop\\dipesh lift system not state pattern design not background worker\\dipesh lift system\\dipesh_lift_system\\dipesh_lift_system\\databaseconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0744759-023C-4149-B6A1-C54E47033FA1}|Dipesh_lift_system\\Dipesh_lift_system.csproj|solutionrelative:dipesh_lift_system\\databaseconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0744759-023C-4149-B6A1-C54E47033FA1}|Dipesh_lift_system\\Dipesh_lift_system.csproj|c:\\users\\hp\\desktop\\dipesh lift system not state pattern design not background worker\\dipesh lift system\\dipesh_lift_system\\dipesh_lift_system\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0744759-023C-4149-B6A1-C54E47033FA1}|Dipesh_lift_system\\Dipesh_lift_system.csproj|solutionrelative:dipesh_lift_system\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0744759-023C-4149-B6A1-C54E47033FA1}|Dipesh_lift_system\\Dipesh_lift_system.csproj|C:\\Users\\HP\\Desktop\\DIpesh lift system not state pattern design not background worker\\Dipesh Lift System\\Dipesh_lift_system\\dipesh_lift_system\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E0744759-023C-4149-B6A1-C54E47033FA1}|Dipesh_lift_system\\Dipesh_lift_system.csproj|solutionrelative:dipesh_lift_system\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0744759-023C-4149-B6A1-C54E47033FA1}|Dipesh_lift_system\\Dipesh_lift_system.csproj|c:\\users\\hp\\desktop\\dipesh lift system not state pattern design not background worker\\dipesh lift system\\dipesh_lift_system\\dipesh_lift_system\\door.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0744759-023C-4149-B6A1-C54E47033FA1}|Dipesh_lift_system\\Dipesh_lift_system.csproj|solutionrelative:dipesh_lift_system\\door.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0744759-023C-4149-B6A1-C54E47033FA1}|Dipesh_lift_system\\Dipesh_lift_system.csproj|c:\\users\\hp\\desktop\\dipesh lift system not state pattern design not background worker\\dipesh lift system\\dipesh_lift_system\\dipesh_lift_system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0744759-023C-4149-B6A1-C54E47033FA1}|Dipesh_lift_system\\Dipesh_lift_system.csproj|solutionrelative:dipesh_lift_system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0744759-023C-4149-B6A1-C54E47033FA1}|Dipesh_lift_system\\Dipesh_lift_system.csproj|c:\\users\\hp\\desktop\\dipesh lift system not state pattern design not background worker\\dipesh lift system\\dipesh_lift_system\\dipesh_lift_system\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0744759-023C-4149-B6A1-C54E47033FA1}|Dipesh_lift_system\\Dipesh_lift_system.csproj|solutionrelative:dipesh_lift_system\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\DIpesh lift system not state pattern design not background worker\\Dipesh Lift System\\Dipesh_lift_system\\Dipesh_lift_system\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Dipesh_lift_system\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\DIpesh lift system not state pattern design not background worker\\Dipesh Lift System\\Dipesh_lift_system\\Dipesh_lift_system\\Form1.Designer.cs*",
+              "RelativeToolTip": "Dipesh_lift_system\\Form1.Designer.cs*",
+              "ViewState": "AgIAABYAAAAAAAAAAAAuwBYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T07:06:24.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\DIpesh lift system not state pattern design not background worker\\Dipesh Lift System\\Dipesh_lift_system\\Dipesh_lift_system\\Form1.cs",
+              "RelativeDocumentMoniker": "Dipesh_lift_system\\Form1.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\DIpesh lift system not state pattern design not background worker\\Dipesh Lift System\\Dipesh_lift_system\\Dipesh_lift_system\\Form1.cs*",
+              "RelativeToolTip": "Dipesh_lift_system\\Form1.cs*",
+              "ViewState": "AgIAAAkBAAAAAAAAAAAuwPAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T07:24:31.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\DIpesh lift system not state pattern design not background worker\\Dipesh Lift System\\Dipesh_lift_system\\Dipesh_lift_system\\Form1.cs",
+              "RelativeDocumentMoniker": "Dipesh_lift_system\\Form1.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\DIpesh lift system not state pattern design not background worker\\Dipesh Lift System\\Dipesh_lift_system\\Dipesh_lift_system\\Form1.cs [Design]*",
+              "RelativeToolTip": "Dipesh_lift_system\\Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T11:44:18.488Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DatabaseConnection.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\DIpesh lift system not state pattern design not background worker\\Dipesh Lift System\\Dipesh_lift_system\\Dipesh_lift_system\\DatabaseConnection.cs",
+              "RelativeDocumentMoniker": "Dipesh_lift_system\\DatabaseConnection.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\DIpesh lift system not state pattern design not background worker\\Dipesh Lift System\\Dipesh_lift_system\\Dipesh_lift_system\\DatabaseConnection.cs",
+              "RelativeToolTip": "Dipesh_lift_system\\DatabaseConnection.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAqwGEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T07:29:26.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Elevator.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\DIpesh lift system not state pattern design not background worker\\Dipesh Lift System\\Dipesh_lift_system\\Dipesh_lift_system\\Elevator.cs",
+              "RelativeDocumentMoniker": "Dipesh_lift_system\\Elevator.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\DIpesh lift system not state pattern design not background worker\\Dipesh Lift System\\Dipesh_lift_system\\Dipesh_lift_system\\Elevator.cs*",
+              "RelativeToolTip": "Dipesh_lift_system\\Elevator.cs*",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T07:28:22.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Door.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\DIpesh lift system not state pattern design not background worker\\Dipesh Lift System\\Dipesh_lift_system\\Dipesh_lift_system\\Door.cs",
+              "RelativeDocumentMoniker": "Dipesh_lift_system\\Door.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\DIpesh lift system not state pattern design not background worker\\Dipesh Lift System\\Dipesh_lift_system\\Dipesh_lift_system\\Door.cs",
+              "RelativeToolTip": "Dipesh_lift_system\\Door.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwEIAAACHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T07:27:19.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\DIpesh lift system not state pattern design not background worker\\Dipesh Lift System\\Dipesh_lift_system\\Dipesh_lift_system\\Program.cs",
+              "RelativeDocumentMoniker": "Dipesh_lift_system\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\DIpesh lift system not state pattern design not background worker\\Dipesh Lift System\\Dipesh_lift_system\\Dipesh_lift_system\\Program.cs",
+              "RelativeToolTip": "Dipesh_lift_system\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T13:04:53.788Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
